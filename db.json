@@ -1,0 +1,208 @@
+{
+  "LEM-XXI-INCEPTION-VIEW": [
+    {
+      "name": "Nanda",
+      "time": "20:00",
+      "date": "1 July",
+      "id": 1
+    },
+    {
+      "name": "Van",
+      "time": "22:00",
+      "date": "2 July",
+      "id": 2
+    },
+    {
+      "name": "Rama",
+      "time": "22:00",
+      "date": "2 July",
+      "id": 3
+    },
+    {
+      "name": "Andi",
+      "time": "22:00",
+      "date": "2 July",
+      "id": 4
+    },
+    {
+      "name": "Restu",
+      "time": "22:00",
+      "date": "2 July",
+      "id": 5
+    },
+    {
+      "name": "Budi",
+      "time": "22:00",
+      "date": "2 July",
+      "id": 6
+    },
+    {
+      "name": "Budi Udi",
+      "time": "22:00",
+      "date": "2 July",
+      "id": 7
+    },
+    {
+      "name": "Mochammad",
+      "time": "18:00",
+      "id": 8
+    },
+    {
+      "name": "Fernanda",
+      "time": "18:00",
+      "id": 9
+    },
+    {
+      "name": "Nanda",
+      "time": "20:00",
+      "id": 10
+    },
+    {
+      "name": "Anjayyyy",
+      "time": "18:00",
+      "id": 11
+    },
+    {
+      "name": "Mochammad",
+      "time": "18:00",
+      "id": 12
+    },
+    {
+      "name": "A",
+      "time": "18:00",
+      "id": 13
+    },
+    {
+      "name": "B",
+      "time": "18:00",
+      "id": 14
+    },
+    {
+      "name": "Fernanda",
+      "time": "18:00",
+      "id": 15
+    },
+    {
+      "name": "Ivan",
+      "time": "18:00",
+      "id": 16
+    },
+    {
+      "name": "Sepuh",
+      "time": "18:00",
+      "id": 17
+    },
+    {
+      "name": "P",
+      "time": "18:00",
+      "id": 18
+    },
+    {
+      "name": "Nanda",
+      "time": "18:00",
+      "id": 19
+    },
+    {
+      "name": "Alhamdulillah",
+      "time": "18:00",
+      "id": 20
+    },
+    {
+      "name": "O",
+      "time": "18:00",
+      "id": 21
+    },
+    {
+      "name": "OP",
+      "time": "18:00",
+      "id": 22
+    },
+    {
+      "name": "Naniii",
+      "time": "18:00",
+      "id": 23
+    },
+    {
+      "name": "Nanda",
+      "time": "18:00",
+      "id": 24
+    },
+    {
+      "name": "Revisi",
+      "time": "18:00",
+      "id": 25
+    },
+    {
+      "name": "Nan",
+      "time": "18:00",
+      "id": 26
+    },
+    {
+      "name": "rama",
+      "time": "20:00",
+      "id": 27
+    },
+    {
+      "name": "rama",
+      "time": "18:00",
+      "id": 28
+    },
+    {
+      "name": "wira",
+      "time": "18:00",
+      "id": 29
+    },
+    {
+      "name": "ivan",
+      "time": "20:00",
+      "id": 30
+    }
+  ],
+  "films": [
+    {
+      "id": "1",
+      "judul": "THE INCEPTION",
+      "banner": "/bg/1.png",
+      "back": "/film1.png",
+      "genre": "Sci-fi",
+      "durasi": "1 jam 46 menit",
+      "sutradara": "Christhoper Nolan",
+      "ratingusia": "D 17",
+      "rate": "6.8",
+      "star": 3,
+      "viewer": 50,
+      "sinopsisSatu": "Dalam film ini, dikisahkan seorang pencuri ulung bernama Dom Cobb (Leonardo DiCaprio). Berbeda dari pencuri pada   umumnya, Cobb ternyata mencuri rahasia penting yang terletak di alam bahwa sadar korbannya. Ia melancarkan aksinya ketika sang korban tengah dalam keadaan bermimpi. Sayangnya, sekalipun kemampuannya yang tidak biasa ini membuat namanya tersohor di dunia spionase, pekerjaan Cobb ternyata membuatnya menjadi buronan internasional.",
+      "sinopsisDua": "Terlebih lagi, ia juga harus terpisah dari keluarganya yang begitu ia cintai. Namun, suatu saat, kesempatan untuk memperbaiki nasibnya muncul ketika ia ditawari sebuah misi yang berbeda dari sebelum-sebelumnya."
+    },
+    {
+      "id": "2",
+      "judul": "THE LOCKDOWN",
+      "banner": "/bg/2.png",
+      "back": "/film2.png",
+      "genre": "Horor",
+      "durasi": "2 jam 10 menit",
+      "sutradara": "Rama Andika",
+      "ratingusia": "D 18",
+      "rate": "8.1",
+      "star": 4,
+      "viewer": 200,
+      "sinopsisSatu": "Seorang guru Josh Lambert (Patrick Wilson) dan istrinya Renai (Rose Byrne) pindah bersama ketiga anak mereka, Dalton (Ty Simpkins), Foster (Andrew Astor) dan bayinya Cali, ke sebuah rumah besar. Ketika Dalton menjelajahi loteng, dia jatuh dari tangga dan kepalanya terbentur lantai. Keesokan paginya, Dalton tidak bangun dan tetap koma, tetapi dokter tidak dapat mendiagnosis masalahnya.",
+      "sinopsisDua": " Tiga bulan kemudian, hal-hal aneh terjadi di dalam rumah dan Renai melihat penampakan. Dia yakin rumah itu berhantu dan meyakinkan Josh untuk pindah ke rumah lain. Renai semakin sering melihat hantu di rumah baru itu, tetapi Josh tidak percaya pada istrinya. Namun ibunya, Lorraine Lambert (Barbara Hershey), justru mengatakan kepadanya bahwa dia juga mendapat penglihatan tentang iblis di kamar Dalton."
+    },
+    {
+      "id": "3",
+      "judul": "THE GREEN : HORNET",
+      "banner": "/bg/3.png",
+      "back": "/film3.png",
+      "genre": "Action,Comedy,Crime",
+      "durasi": "1 jam 50 menit",
+      "sutradara": "Michel Gondry",
+      "ratingusia": "D 17",
+      "rate": "7.9",
+      "star": 4,
+      "viewer": 100,
+      "sinopsisSatu": "Film yang disutradarai oleh Michel Gondry ini dibintangi oleh Seth Rogen, Jay Chou, Christoph Waltz, Tom Wilkinson, Cameron Diaz dan lain-lain. Sementara skenario ditulis oleh Seth Rogen dan Evan Goldberg. Dihimpun dari berbagai sumber, The Green Hornet sendiri berkisah tentang Britt Reid (Seth Rogen) yang menerima tanggung jawab besar dari ayahnya, James Reid (Tom Wilkinson) untuk mewarisi sebuah perusahaan. ",
+      "sinopsisDua": "Tugas membasmi kejahatan yang dilakukan Green Hornet dan Kato ini mempertemukan mereka dengan raja dunia kejahatan bernama Benjamin Chudnofsky (Christoph Waltz). Benjamin memiliki rencana untuk menghabisi Green Hornet dan Kato."
+    }
+  ]
+}

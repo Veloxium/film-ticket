@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+First, run db server:
+
+``` json-server -w db.json -p 5000 ```
+
 First, run the development server:
 
 ```bash
