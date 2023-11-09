@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project Order Ticket. for My Final Exam Semester 2.
+This is a [Next.js](https://nextjs.org/) project, with title "Cinema Ticket Web". for My Final Exam Semester 2.
 
 ## Getting Started
 
