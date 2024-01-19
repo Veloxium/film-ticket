@@ -30,13 +30,13 @@ Film Ticket App adalah aplikasi web sederhana yang memungkinkan pengguna untuk m
    
    ```bash
    npx json-server -w db.json -p 5000
-   Pastikan server database berjalan di http://localhost:5000.
+Pastikan server database berjalan di http://localhost:5000.
 
 6. **Buka terminal baru dan jalankan aplikasi:**
    
    ```bash
    npm run dev
-   Akses aplikasi melalui http://localhost:3000.
+Akses aplikasi melalui http://localhost:3000.
 
 ##Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat fork dan ajukan pull request.
