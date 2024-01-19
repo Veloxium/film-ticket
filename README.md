@@ -21,16 +21,16 @@ Film Ticket App adalah aplikasi web sederhana yang memungkinkan pengguna untuk m
    git clone https://github.com/Veloxium/film-ticket.git
 
 2. **Instal dependencies:**
-```cd film-ticket-app
-```npm install
+   ```cd film-ticket-app
+   ```npm install
 
 3. **Jalankan json-server untuk server database:**
-```npx json-server -w db.json -p 5000
-```Pastikan server database berjalan di http://localhost:5000.
+   ```npx json-server -w db.json -p 5000
+   ```Pastikan server database berjalan di http://localhost:5000.
 
 4. **Buka terminal baru dan jalankan aplikasi:**
-npm run dev
-Akses aplikasi melalui http://localhost:3000.
+   ```npm run dev
+   ```Akses aplikasi melalui http://localhost:3000.
 
 ##Kontribusi
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat fork dan ajukan pull request.
